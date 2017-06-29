@@ -37,5 +37,5 @@ int main(int argc, char **argv) {
     std::cout << "I'm sorry but it has no solutions! Try Again!" << '\n';
   }
 
-  return rv;
+  return 0;
 }
